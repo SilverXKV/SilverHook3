@@ -1,6 +1,6 @@
 # SilverHook
+## This is made for 1.16 and auto-updates using sigscanning for it. 1.17 came out and broke it and im too lazy to update.
 Internal HOI4 Cheat for Windows
-Uses static memory addresses
 Uses <a href="https://github.com/Rebzzel/kiero">KieroHook</a>, <a href="https://github.com/TsudaKageyu/minhook">MinHook</a> and <a href="https://github.com/ocornut/imgui">ImGui</a>
 
 # Features
@@ -15,6 +15,7 @@ Uses <a href="https://github.com/Rebzzel/kiero">KieroHook</a>, <a href="https://
 ### In-game Cheats
 - Free Templates
 - Free Upgrades
+- Enable Debug
 - Crasher
 - Enable and Disable AI on all
 - Unpauseable Pause
@@ -28,12 +29,6 @@ Uses <a href="https://github.com/Rebzzel/kiero">KieroHook</a>, <a href="https://
 ### Debug Options
 - Boost Yourself
 (Only majors can be boosted, to boost yourself go to singleplayer and custom game rules and click any arrow in the boost part of the rules thats on your country, then the country tag under the boost amount should be a bunch of numbers, than you can enter any number preferably larger than 250 to boost your own country in any game for that session)
-
-# Screenshots of Cheat
-## (Anything thats rubbed out in Red isnt in the offical version, just my one
-![image](https://github.com/user-attachments/assets/f6db91df-c3a4-43b9-805b-063d0940732e)
-![image](https://github.com/user-attachments/assets/01eece21-31b6-407e-a75f-ec875bf4759b)
-![image](https://github.com/user-attachments/assets/9d74f79f-bd95-411a-8fe4-e0a737d5e5b5)
 
 
 # ImGui-DirectX-11-Kiero-Hook
